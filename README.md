@@ -1,4 +1,4 @@
-# Azure-CustomWakeWord-WindowsEclipseJava
+# Azure-Kinect-CustomWakeWord-Windows-Eclipse-Java
 In this project, you'll learn how to use the Speech Devices SDK for Windows to build a speech-enabled product or use it as a Conversation Transcription device. Currently only the Azure Kinect DK is supported.
 
 The application is built with the Speech SDK package, and the Eclipse Java IDE (v4) on 64-bit Windows. It runs on a 64-bit Java 8 runtime environment (JRE).
